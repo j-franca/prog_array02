@@ -1,14 +1,22 @@
 body{
     background-color: #efeadd;
+    
+    margin-top: 40px;
 }
 h1{
     font: 'Poppins';
     color: #6d7a71;
+    margin-left: 80px;
 }
 label{
     color: rgb(36, 30, 30);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+    margin-left: 80px;
+}
+input{
+    width: 215px;
+    margin-left: 80px;
 }
 hr{
     border-top: 1px solid #ba806a;
@@ -26,7 +34,7 @@ hr{
 .botoes{
     display: flex;
     flex-direction: row;
-    
+    margin-left: 80px;
 }
 button{
     font-size: 1.01rem;
